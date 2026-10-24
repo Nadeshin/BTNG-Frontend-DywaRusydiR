@@ -1,0 +1,11 @@
+.kartu-mhs {
+    padding: 12px;
+    background-color: aqua;
+    border-radius: 4px;
+}
+
+.active {
+    background-color: brown;
+    border-left: 5px;
+    color: blue;
+}
